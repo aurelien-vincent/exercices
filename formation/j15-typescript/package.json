@@ -1,0 +1,9 @@
+{
+  "name": "j15-typescript",
+  "packageManager": "yarn@4.18.0",
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
