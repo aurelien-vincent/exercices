@@ -1,0 +1,12 @@
+yarn init -y
+yarn add -D typescript tsx @types/node
+
+
+yarn tsc --init
+mkdir src
+touch src/index.ts
+code .
+
+
+yarn tsx src/index.ts
+yarn tsc --noEmit
